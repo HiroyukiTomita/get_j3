@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 #
 # get_j3.py ---a script to download J-OFURO3 netCDF
 #
